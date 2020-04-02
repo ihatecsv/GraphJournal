@@ -1,0 +1,26 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #556D71;
+}
+
+#editor {
+
+}
+
+.hl {
+	border-radius: 6px;
+	border-color: #ccc;
+	white-space: pre;
+	padding: 4px;
+	background: repeating-linear-gradient(
+		45deg,
+		#ccc,
+		#ccc 10px,
+		#fff 10px,
+		#fff 20px
+	);
+}
+
+.hl-wakeupTime {
+	color: white;
+	background: red;
+}
